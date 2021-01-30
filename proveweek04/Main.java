@@ -7,6 +7,7 @@ public class Main {
         /* Main method to print my teammates name */
 
             System.out.println("Hello, my name is Pam");
+            System.out.println("My name is Dan, Hello Pam");
 
 
         }
