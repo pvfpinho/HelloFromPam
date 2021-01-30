@@ -1,4 +1,4 @@
-package prove04;
+package proveweek04;
 
 public class Main {
     //creates a class
